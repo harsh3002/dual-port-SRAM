@@ -1,0 +1,113 @@
+# Compile of dual_SRAM.v was successful.
+# Compile of dual_SRAM.v failed with 1 errors.
+# Compile of dual_SRAM.v failed with 1 errors.
+# Compile of dual_SRAM.v was successful.
+# Compile of dual_SRAM_tb.v failed with 1 errors.
+# Compile of dual_SRAM_tb.v failed with 1 errors.
+# Compile of dual_SRAM_tb.v failed with 1 errors.
+# Compile of dual_SRAM_tb.v failed with 1 errors.
+# Compile of dual_SRAM_tb.v was successful.
+# Compile of dual_SRAM_tb.v was successful.
+# Compile of dual_SRAM_tb.v failed with 4 errors.
+# Compile of dual_SRAM_tb.v was successful.
+vsim work.dual_sram_tb
+# vsim work.dual_sram_tb 
+# Start time: 12:34:31 on Mar 22,2024
+# Loading work.dual_sram_tb
+# Loading work.dual_sram
+# ** Fatal: (vsim-3373) Range of part-select [0:7] into 'mem' [7:0] is reversed.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_sram_tb/dut File: C:/Users/HARSHITH/Desktop/Verilog/SRAM-harsh/dual port SRAM/dual_SRAM.v Line: 22
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 12:34:32 on Mar 22,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 17
+# Compile of dual_SRAM_tb.v was successful.
+# Compile of dual_SRAM_tb.v was successful.
+# Compile of dual_SRAM.v was successful.
+# Compile of dual_SRAM_tb.v was successful.
+vsim work.dual_sram_tb
+# vsim work.dual_sram_tb 
+# Start time: 12:37:27 on Mar 22,2024
+# Loading work.dual_sram_tb
+# Loading work.dual_sram
+add wave -position insertpoint sim:/dual_sram_tb/*
+run
+run
+quit -sim
+# End time: 12:39:01 on Mar 22,2024, Elapsed time: 0:01:34
+# Errors: 0, Warnings: 5
+# Compile of dual_SRAM_tb.v was successful.
+vsim work.dual_sram_tb
+# vsim work.dual_sram_tb 
+# Start time: 12:41:23 on Mar 22,2024
+# Loading work.dual_sram_tb
+# Loading work.dual_sram
+add wave -position insertpoint sim:/dual_sram_tb/*
+run
+run
+run
+quit -sim
+# End time: 12:44:11 on Mar 22,2024, Elapsed time: 0:02:48
+# Errors: 0, Warnings: 2
+# Compile of dual_SRAM_tb.v was successful.
+vsim work.dual_sram_tb
+# vsim work.dual_sram_tb 
+# Start time: 12:45:30 on Mar 22,2024
+# Loading work.dual_sram_tb
+# Loading work.dual_sram
+add wave -position insertpoint sim:/dual_sram_tb/*
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 12:47:14 on Mar 22,2024, Elapsed time: 0:01:44
+# Errors: 0, Warnings: 2
+# Compile of dual_SRAM_tb.v was successful.
+vsim work.dual_sram_tb
+# vsim work.dual_sram_tb 
+# Start time: 12:47:35 on Mar 22,2024
+# Loading work.dual_sram_tb
+# Loading work.dual_sram
+add wave -position insertpoint sim:/dual_sram_tb/*
+run
+run
+run
+run
+quit -sim
+# End time: 12:48:38 on Mar 22,2024, Elapsed time: 0:01:03
+# Errors: 0, Warnings: 2
+# Compile of dual_SRAM_tb.v failed with 1 errors.
+# Compile of dual_SRAM_tb.v was successful.
+vsim work.dual_sram_tb
+# vsim work.dual_sram_tb 
+# Start time: 12:49:20 on Mar 22,2024
+# Loading work.dual_sram_tb
+# Loading work.dual_sram
+add wave -position insertpoint sim:/dual_sram_tb/*
+run
+run
+run
+run
+run
+quit -sim
+# End time: 12:50:38 on Mar 22,2024, Elapsed time: 0:01:18
+# Errors: 0, Warnings: 3
+# Compile of dual_SRAM_tb.v failed with 1 errors.
+# Compile of dual_SRAM_tb.v was successful.
+vsim work.dual_sram_tb
+# vsim work.dual_sram_tb 
+# Start time: 12:51:25 on Mar 22,2024
+# Loading work.dual_sram_tb
+# Loading work.dual_sram
+add wave -position insertpoint sim:/dual_sram_tb/*
+run
+run
+run
+run
+run
+run
+run

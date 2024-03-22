@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HARSHITH/Desktop/Verilog/SRAM-harsh/single port SRAM
+vdual_sram
+!s110 1711091241
+!i10b 1
+!s100 :M9cedTn8iX?525m405je0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIW?Lb`9dE;:Xg_BgFS7lk2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HARSHITH/Desktop/Verilog/SRAM-harsh/dual port SRAM
+w1711091221
+8C:/Users/HARSHITH/Desktop/Verilog/SRAM-harsh/dual port SRAM/dual_SRAM.v
+FC:/Users/HARSHITH/Desktop/Verilog/SRAM-harsh/dual port SRAM/dual_SRAM.v
+!i122 7
+L0 4 60
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1711091241.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/SRAM-harsh/dual port SRAM/dual_SRAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/SRAM-harsh/dual port SRAM/dual_SRAM.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vdual_sram_tb
+!s110 1711092084
+!i10b 1
+!s100 SY65NeNEfB?6lgZKk7B4m0
+R0
+I7F^G_VJ7>Y`IG;OPzCB^82
+R1
+R2
+w1711092082
+8C:/Users/HARSHITH/Desktop/Verilog/SRAM-harsh/dual port SRAM/dual_SRAM_tb.v
+FC:/Users/HARSHITH/Desktop/Verilog/SRAM-harsh/dual port SRAM/dual_SRAM_tb.v
+!i122 13
+L0 4 88
+R3
+r1
+!s85 0
+31
+!s108 1711092083.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/SRAM-harsh/dual port SRAM/dual_SRAM_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/SRAM-harsh/dual port SRAM/dual_SRAM_tb.v|
+!i113 1
+R4
+R5
